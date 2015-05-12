@@ -1,0 +1,2 @@
+# VoiceLife
+Enjoy the sound of life, improve the quality of life. With a voice to give some help. Automatically read in the morning network news, according to the outdoor temperature and humidity, such as peripherals prompted for clothes proposal also included a small transaction module, you can automatically according to the daily workflow automatically prompts the user to administer, more extended, more tips.
